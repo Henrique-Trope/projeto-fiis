@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Dados gerados
+ingestion/data/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Configurações locais
+.vscode/
+
+# Arquivos com variáveis secretas
+.env
