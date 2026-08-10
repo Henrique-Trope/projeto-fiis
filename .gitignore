@@ -2,7 +2,7 @@
 .venv/
 
 # Dados gerados
-ingestion/data/
+#ingestion/data/
 
 # Cache do Python
 __pycache__/
